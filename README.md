@@ -1,7 +1,7 @@
 ## Hello
 
 - 🌱 I’m currently working on [toxssin](https://github.com/t3l3machus/toxssin) 
-- I am a Penetration Tester and software developer,
+- I am a penetration tester and software developer,
 - I enjoy creating and sharing scripts and tools. Stick around for more content.
 
 ## Connect with me:
