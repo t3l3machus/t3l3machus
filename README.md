@@ -1,6 +1,6 @@
 ## Hi there!
 
-- 🌱 I’m currently working on [toxssin](https://github.com/t3l3machus/toxssin),
+- 🌱 I’m currently working on [toxssin](https://github.com/t3l3machus/toxssin) and [hoaxshell](https://github.com/t3l3machus/hoaxshell),
 - I am a penetration tester and software developer,
 - I enjoy creating and sharing scripts and tools. Stick around for more content.
 
