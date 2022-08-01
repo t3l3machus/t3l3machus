@@ -1,8 +1,19 @@
-## Hi there!
+## Sources
 
-- 🌱 I’m currently working on [toxssin](https://github.com/t3l3machus/toxssin) and [hoaxshell](https://github.com/t3l3machus/hoaxshell),
-- I am a penetration tester and software developer,
-- I enjoy creating and sharing scripts and tools. Stick around for more content.
+| Project  | Short Description | Stars | Forks | Support |
+|---|---|---|---|---|
+|[toxssin](https://github.com/t3l3machus/toxssin)   | An XSS exploitation cmd line interface.  |[![GitHub stars](https://badgen.net/github/stars/t3l3machus/toxssin)](https://GitHub.com/t3l3machus/toxssin)   |[![GitHub forks](https://badgen.net/github/forks/t3l3machus/toxssin)](https://GitHub.com/t3l3machus/toxssin)  |<img src="https://img.shields.io/badge/Maintained%3F-Yes-96c40f">  | 
+|[hoaxshell](https://github.com/t3l3machus/hoaxshell)   | hoaxshell is an unconventional Windows reverse shell. | [![GitHub stars](https://badgen.net/github/stars/t3l3machus/hoaxshell)](https://GitHub.com/t3l3machus/hoaxshell)   |[![GitHub forks](https://badgen.net/github/forks/t3l3machus/hoaxshell)](https://GitHub.com/t3l3machus/hoaxshell)  |<img src="https://img.shields.io/badge/Maintained%3F-Yes-96c40f">  |
+|[psudohash](https://github.com/t3l3machus/psudohash)   | A password generator based on keywords and commonly used patterns. | [![GitHub stars](https://badgen.net/github/stars/t3l3machus/psudohash)](https://GitHub.com/t3l3machus/psudohash)   | [![GitHub forks](https://badgen.net/github/forks/t3l3machus/psudohash)](https://GitHub.com/t3l3machus/psudohash) |<img src="https://img.shields.io/badge/Maintained%3F-Yes-96c40f">  |
+|[pentest-pivoting](https://github.com/t3l3machus/pentest-pivoting) | A network pivoting guide for pentests / CTFs. | [![GitHub stars](https://badgen.net/github/stars/t3l3machus/pentest-pivoting)](https://GitHub.com/t3l3machus/pentest-pivoting)   | [![GitHub forks](https://badgen.net/github/forks/t3l3machus/pentest-pivoting)](https://GitHub.com/t3l3machus/pentest-pivoting) | <img src="https://img.shields.io/badge/Maintained%3F-Yes-96c40f"> |
+    
+
+   
+
+
+
+
+
 
 ## Connect with me:
   <a href="https://www.linkedin.com/in/panagiotis-chartas-a9b4a21a5/">
