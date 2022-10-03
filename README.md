@@ -13,6 +13,6 @@
     <img alt="t3l3machus email" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/email.svg" />
   </a>
   
-<a href="https://www.buymeacoffee.com/telemachus" target="_blank">
+<a href="https://www.buymeacoffee.com/t3l3machus" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 170px !important;" >
 </a>
