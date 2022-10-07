@@ -15,5 +15,5 @@
   </a>
 
 <a href="https://www.buymeacoffee.com/t3l3machus" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 170px !important;" >
+  <img alt="buymeacoffee" height="40px" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg">
 </a>
