@@ -13,7 +13,7 @@
   </a>
 
 <a href="https://www.buymeacoffee.com/t3l3machus" target="_blank">
-  <img alt="buymeacoffee" height="40px" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg">
+  <img alt="buymeacoffee" height="40px" src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg">
 </a>
 
 <a href="https://twitter.com/intent/tweet?text=Open%20source%20penetration%20testing%20tools%20for%20exploiting%20various%20attack%20vectors%21&url=https://github.com/t3l3machus/overview&via=t3l3machus&hashtags=cybersecurity,pentesting,redteaming,hacking,github" target="_blank">
