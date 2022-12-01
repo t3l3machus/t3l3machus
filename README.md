@@ -1,4 +1,6 @@
 ### Connect with me / Support:
+If you like the tools I make please show some love by following me, subscribing on YT, throwing a star here and there or just give respect on [HackTheBox](https://app.hackthebox.com/profile/87301).  
+
   <a href="https://www.linkedin.com/in/panagiotis-chartas-a9b4a21a5/">
       <img alt="LinkedIn" width="40px" src="https://cdn1.iconfinder.com/data/icons/social-media-icon-1/112/linkedin-512.png"/>
   </a>
