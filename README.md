@@ -35,7 +35,6 @@ If you like the tools I make please show some love by following me, subscribing 
           <td><b>Short Description</b></td>
           <td><b>Stars</b></td>
           <td><b>Forks</b></td>
-          <td><b>Support</b></td>
         </tr>
       </thead>
       <tbody>
@@ -44,42 +43,36 @@ If you like the tools I make please show some love by following me, subscribing 
           <td>A backdoor generator and multi-session handler.</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/Villain?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/Villain?style=flat-square&labelColor=343b41"/></td>
-          <td>Yes</td>
         </tr>
         <tr>
           <td><a href="https://github.com/t3l3machus/toxssin"><b>toxssin</b></a></td>
           <td>An XSS exploitation command-line interface.</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/toxssin?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/toxssin?style=flat-square&labelColor=343b41"/></td>
-          <td>Yes</td>
         </tr>
         <tr>
           <td><a href="https://github.com/t3l3machus/hoaxshell"><b>hoaxshell</b></a></td>
           <td>A Windows reverse shell payload generator and handler that abuses the http(s) <br />protocol to establish a beacon-like reverse shell. </td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/hoaxshell?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/hoaxshell?style=flat-square&labelColor=343b41"/></td>
-          <td>Yes</td>
         </tr> 
         <tr>
           <td><a href="https://github.com/t3l3machus/psudohash"><b>psudohash</b></a></td>
           <td>A password list generator based on keywords mutated by commonly used patterns and more.</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/psudohash?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/psudohash?style=flat-square&labelColor=343b41"/></td>
-          <td>Yes</td>
         </tr> 
         <tr>
           <td><a href="https://github.com/t3l3machus/eviltree"><b>eviltree</b></a></td>
           <td>A standalone python3 remake of the classic "tree" command with the additional <br />feature of searching for user provided keywords/regex in files, highlighting those that contain matches.</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/eviltree?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/eviltree?style=flat-square&labelColor=343b41"/></td>
-          <td>Yes</td>
         </tr>
           <tr>
           <td><a href="https://github.com/t3l3machus/wwwtree"><b>wwwtree</b></a></td>
           <td>A utility for quickly and easily locating, web hosting and transferring resources during PrivEsc.</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/wwwtree?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/wwwtree?style=flat-square&labelColor=343b41"/></td>
-          <td>Yes</td>
         </tr>
       </tbody>
     </table>
@@ -95,7 +88,6 @@ If you like the tools I make please show some love by following me, subscribing 
           <td><b>Short Description</b></td>
           <td><b>Stars</b></td>
           <td><b>Forks</b></td>
-          <td><b>Support</b></td>
         </tr>
       </thead>
       <tbody>
@@ -104,28 +96,24 @@ If you like the tools I make please show some love by following me, subscribing 
           <td>A network pivoting guide for pentests / CTFs.</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/pentest-pivoting?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/pentest-pivoting?style=flat-square&labelColor=343b41"/></td>
-          <td>Yes</td>
         </tr>
         <tr>
           <td><a href="https://github.com/t3l3machus/ssh-log-alert"><b>ssh-log-alert</b></a></td>
           <td>Receive email alerts on successful ssh logins (mailgun).</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/ssh-log-alert?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/ssh-log-alert?style=flat-square&labelColor=343b41"/></td>
-          <td>Yes</td>
         </tr>    
          <tr>
           <td><a href="https://github.com/t3l3machus/gmail-ssh-log-alert"><b>gmail-ssh-log-alert</b></a></td>
           <td>Receive email alerts on successful ssh logins (gmail).</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/gmail-ssh-log-alert?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/gmail-ssh-log-alert?style=flat-square&labelColor=343b41"/></td>
-          <td>Yes</td>
         </tr>
          <tr>
           <td><a href="https://github.com/t3l3machus/cybersec-service-metrics"><b>cybersec-service-metrics</b></a></td>
           <td>A spreadsheet designed to automatically generate Key Performance Indicators <br />for Cyber Security Services based on documented data. Ideal for Team leaders / Managers of small-medium sized organizations.</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/cybersec-service-metrics?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/cybersec-service-metrics?style=flat-square&labelColor=343b41"/></td>
-          <td>Yes</td>
         </tr>  
       </tbody>
     </table>
