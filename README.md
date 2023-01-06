@@ -86,7 +86,7 @@ If you like the tools I make please show some love by following me, subscribing 
     </details>
     <details>
   
-  <summary><b>⚡ Other Projects</b></summary>
+  <summary><b>⚡ Other Tools, Guides etc</b></summary>
   <br/>
     <table>
       <thead align="center">
