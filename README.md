@@ -120,7 +120,14 @@ If you like the tools I make please show some love by following me, subscribing 
           <td>A spreadsheet designed to automatically generate Key Performance Indicators <br />for Cyber Security Services based on documented data. Ideal for Team leaders / Managers of small-medium sized organizations.</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/cybersec-service-metrics?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/cybersec-service-metrics?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+         <tr>
+          <td><a href="https://github.com/t3l3machus/Awesome-AI"><b>Awesome-AI</b></a></td>
+          <td>A list of awesome AI resources around the internet.</td>      
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/Awesome-AI?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/Awesome-AI?style=flat-square&labelColor=343b41"/></td>
         </tr>  
+         <tr>
           <td><a href="https://github.com/t3l3machus/OWASP-Testing-Guide-Checklist"><b>OWASP-Testing-Guide-Checklist</b></a></td>
           <td>OWASP based Web Application Security Testing Checklist.</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/OWASP-Testing-Guide-Checklist?style=flat-square&labelColor=343b41"/></td>
