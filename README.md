@@ -76,7 +76,7 @@ If you like the tools I make please show some love by following me, subscribing 
         </tr>
          <tr>
           <td><a href="https://github.com/t3l3machus/CVE-2023-22960"><b>CVE-2023-22960</b></a></td>
-          <td>Performs PoC for CVE-2023-22960 (Brute-force Lexmark printers).</td>      
+          <td>PoC for CVE-2023-22960 (Brute-force Lexmark printers).</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/CVE-2023-22960?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/CVE-2023-22960?style=flat-square&labelColor=343b41"/></td>
         </tr>
