@@ -17,11 +17,13 @@ If you like the tools I make please show some love by following me, subscribing 
 
 <a href="https://www.buymeacoffee.com/t3l3machus" target="_blank">
   <img alt="buymeacoffee" height="40px" src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg">
-</a>
+</a><a href='https://ko-fi.com/B0B1JO1HJ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
+<!--
 <a href="https://twitter.com/intent/tweet?text=Open%20source%20penetration%20testing%20tools%20for%20exploiting%20various%20attack%20vectors%21&url=https://github.com/t3l3machus/overview&via=t3l3machus&hashtags=cybersecurity,pentesting,redteaming,hacking,github" target="_blank">
   <img alt="Tweet" height="22px" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social">
 </a>
+-->
 
 
 
