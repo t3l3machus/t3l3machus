@@ -42,7 +42,7 @@ If you like the tools I make please show some love by following me, subscribing 
       <tbody>
         <tr>
           <td><a href="https://github.com/t3l3machus/Villain"><b>Villain</b></a></td>
-          <td>A backdoor generator and multi-session handler.</td>      
+          <td>A C2 backdoor generator and multi-session handler.</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/Villain?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/Villain?style=flat-square&labelColor=343b41"/></td>
         </tr>
@@ -65,10 +65,16 @@ If you like the tools I make please show some love by following me, subscribing 
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/psudohash?style=flat-square&labelColor=343b41"/></td>
         </tr> 
         <tr>
-          <td><a href="https://github.com/t3l3machus/eviltree"><b>eviltree</b></a></td>
-          <td>A standalone python3 remake of the classic "tree" command with the additional <br />feature of searching for user provided keywords/regex in files, highlighting those that contain matches.</td>      
-          <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/eviltree?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/eviltree?style=flat-square&labelColor=343b41"/></td>
+          <td><a href="https://github.com/t3l3machus/eviltree"><b>PowerShell-Obfuscation-Bible</b></a></td>
+          <td>A collection of techniques, examples and a little bit of theory for manually obfuscating PowerShell scripts.</td>      
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/PowerShell-Obfuscation-Bible?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/PowerShell-Obfuscation-Bible?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/t3l3machus/wwwtree"><b>wwwtree</b></a></td>
+          <td>A utility for quickly and easily locating, web hosting and transferring resources during PrivEsc.</td>      
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/wwwtree?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/wwwtree?style=flat-square&labelColor=343b41"/></td>
         </tr>
         <tr>
           <td><a href="https://github.com/t3l3machus/wwwtree"><b>wwwtree</b></a></td>
