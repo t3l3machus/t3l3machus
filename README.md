@@ -65,7 +65,7 @@ If you like the tools I make please show some love by following me, subscribing 
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/psudohash?style=flat-square&labelColor=343b41"/></td>
         </tr> 
         <tr>
-          <td><a href="https://github.com/t3l3machus/eviltree"><b>PowerShell-Obfuscation-Bible</b></a></td>
+          <td><a href="https://github.com/t3l3machus/PowerShell-Obfuscation-Bible"><b>PowerShell-Obfuscation-Bible</b></a></td>
           <td>A collection of techniques, examples and a little bit of theory for manually obfuscating PowerShell scripts.</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/PowerShell-Obfuscation-Bible?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/PowerShell-Obfuscation-Bible?style=flat-square&labelColor=343b41"/></td>
