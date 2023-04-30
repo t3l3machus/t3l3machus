@@ -26,7 +26,6 @@ If you like the tools I make please show some love by following me, subscribing 
 -->
 
 
-
 ### Projects:
 <details>
   <summary><b>:boom: Offensive Security Tools</b></summary>
@@ -71,10 +70,10 @@ If you like the tools I make please show some love by following me, subscribing 
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/PowerShell-Obfuscation-Bible?style=flat-square&labelColor=343b41"/></td>
         </tr>
         <tr>
-          <td><a href="https://github.com/t3l3machus/wwwtree"><b>wwwtree</b></a></td>
-          <td>A utility for quickly and easily locating, web hosting and transferring resources during PrivEsc.</td>      
-          <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/wwwtree?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/wwwtree?style=flat-square&labelColor=343b41"/></td>
+          <td><a href="https://github.com/t3l3machus/eviltree"><b>eviltree</b></a></td>
+          <td>A python3 remake of the classic "tree" command with the additional feature of searching for user provided keywords/regex in files, highlighting those that contain matches.</td>      
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/eviltree?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/eviltree?style=flat-square&labelColor=343b41"/></td>
         </tr>
         <tr>
           <td><a href="https://github.com/t3l3machus/wwwtree"><b>wwwtree</b></a></td>
@@ -93,13 +92,19 @@ If you like the tools I make please show some love by following me, subscribing 
           <td>Performs Romanization and name-to-usernames convertion of full name lists.</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/BabelStrike?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/BabelStrike?style=flat-square&labelColor=343b41"/></td>
-        </tr>        
+        </tr>
+        <tr>
+          <td><a href="https://github.com/t3l3machus/pentest-pivoting"><b>pentest-pivoting</b></a></td>
+          <td>A network pivoting guide for pentests / CTFs.</td>      
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/pentest-pivoting?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/pentest-pivoting?style=flat-square&labelColor=343b41"/></td>
+        </tr> 
       </tbody>
     </table>
     </details>
     <details>
   
-  <summary><b>⚡ Other Tools, Guides etc</b></summary>
+  <summary><b>⚡ Other Tools, Guides, etc</b></summary>
   <br/>
     <table>
       <thead align="center">
@@ -111,12 +116,6 @@ If you like the tools I make please show some love by following me, subscribing 
         </tr>
       </thead>
       <tbody>
-        <tr>
-          <td><a href="https://github.com/t3l3machus/pentest-pivoting"><b>pentest-pivoting</b></a></td>
-          <td>A network pivoting guide for pentests / CTFs.</td>      
-          <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/pentest-pivoting?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/pentest-pivoting?style=flat-square&labelColor=343b41"/></td>
-        </tr>
         <tr>
           <td><a href="https://github.com/t3l3machus/ssh-log-alert"><b>ssh-log-alert</b></a></td>
           <td>Receive email alerts on successful ssh logins (mailgun).</td>      
