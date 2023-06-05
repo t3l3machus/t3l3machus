@@ -87,6 +87,12 @@ If you like the tools I make please show some love by following me, subscribing 
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/CVE-2023-22960?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/CVE-2023-22960?style=flat-square&labelColor=343b41"/></td>
         </tr>
+         <tr>
+          <td><a href="https://github.com/t3l3machus/Synergy-httpx"><b>Synergy Httpx</b></a></td>
+          <td>A Python http(s) server designed to assist in red teaming activities such as receiving intercepted data via POST requests and serving content dynamically (e.g. payloads). </td>      
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/Synergy-httpx?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/Synergy-httpx?style=flat-square&labelColor=343b41"/></td>
+        </tr> 
         <tr>
           <td><a href="https://github.com/t3l3machus/BabelStrike"><b>BabelStrike</b></a></td>
           <td>Performs Romanization and name-to-usernames convertion of full name lists.</td>      
