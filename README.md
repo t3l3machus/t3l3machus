@@ -1,7 +1,8 @@
 ### Connect with me / Support:
 Hi, I'm t3l3machus, Penetration Tester & Cybersec Researcher from Athens, Greece 🇬🇷, currently living in Poland 🇵🇱.  
-If you like the tools I make please show some love by following me, subscribing on YT, throwing a star here and there or just give respect on [HackTheBox](https://app.hackthebox.com/profile/87301).  
+If you like the tools I make please show some love by following me, [buymeacoffee](https://www.buymeacoffee.com/t3l3machus), throwing a star here and there or just give respect on [HackTheBox](https://app.hackthebox.com/profile/87301).  
 
+<!--
   <a href="https://www.linkedin.com/in/panagiotis-chartas-a9b4a21a5/">
       <img alt="LinkedIn" width="40px" src="https://cdn1.iconfinder.com/data/icons/social-media-icon-1/112/linkedin-512.png"/>
   </a>
@@ -15,9 +16,11 @@ If you like the tools I make please show some love by following me, subscribing 
     <img alt="youtube" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" />
   </a>
 
+
 <a href="https://www.buymeacoffee.com/t3l3machus" target="_blank">
   <img alt="buymeacoffee" height="40px" src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg">
-</a><a href='https://ko-fi.com/B0B1JO1HJ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</a>-->
+<!-- <a href='https://ko-fi.com/B0B1JO1HJ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
 
 <!--
 <a href="https://twitter.com/intent/tweet?text=Open%20source%20penetration%20testing%20tools%20for%20exploiting%20various%20attack%20vectors%21&url=https://github.com/t3l3machus/overview&via=t3l3machus&hashtags=cybersecurity,pentesting,redteaming,hacking,github" target="_blank">
@@ -108,8 +111,8 @@ If you like the tools I make please show some love by following me, subscribing 
       </tbody>
     </table>
     </details>
-    <details>
-  
+    
+  <details>
   <summary><b>⚡ Other Tools, Guides, etc</b></summary>
   <br/>
     <table>
@@ -156,4 +159,29 @@ If you like the tools I make please show some love by following me, subscribing 
     </table>
     </details>
 
+  <details>
+  <summary><b>:octocat: Contributions</b></summary>
+  <br/>
+    <table>
+      <thead align="center">
+        <tr border: none;>
+          <td><b>Project</b></td>
+          <td><b>Short Description</b></td>
+          <td><b>Contribution</b></td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://github.com/projectdiscovery/nuclei-templates"><b>nuclei-templates</b></a></td>
+          <td>Templates are the core of the nuclei scanner which powers the actual scanning engine.</td>      
+          <td>Added sap-public-admin template.</td>     
+        </tr>
+        <tr>
+          <td><a href="https://github.com/0dayCTF/reverse-shell-generator"><b>reverse-shell-generator</b></a></td>
+          <td>Hosted Reverse Shell generator with a ton of functionality.</td> 
+          <td>Added HoaxShell and front-end style improvements.</td>    
+        </tr>  
+      </tbody>
+    </table>
+    </details>
 
