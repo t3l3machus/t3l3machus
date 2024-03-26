@@ -177,7 +177,7 @@ If you like the tools I make please show some love by following me, [buymeacoffe
           <td>Added sap-public-admin template.</td>     
         </tr>
         <tr>
-          <td><a href="https://github.com/0dayCTF/reverse-shell-generator"><b>reverse-shell-generator</b></a></td>
+          <td><a href="https://github.com/0dayCTF/reverse-shell-generator"><b>reverse-shell-generator</b></a>&nbsp;&#40;<a href="https://revshells.com/">revshells.com</a>&#41;</td>
           <td>Hosted Reverse Shell generator with a ton of functionality.</td> 
           <td>Added HoaxShell and front-end style improvements.</td>    
         </tr>  
