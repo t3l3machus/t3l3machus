@@ -29,7 +29,7 @@ If you like the tools I make please show some love by following me, [buymeacoffe
 -->
 
 
-### Projects:
+### Projects & Contributions:
 <details>
   <summary><b>:boom: Offensive Security Tools</b></summary>
     <table>
