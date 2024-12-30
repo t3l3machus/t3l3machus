@@ -111,6 +111,53 @@ If you like the tools I make please show some love by following me, [buymeacoffe
       </tbody>
     </table>
     </details>
+
+  <details>
+  <summary><b>:octocat: Contributions</b></summary>
+  <br/>
+    <table>
+      <thead align="center">
+        <tr border: none;>
+          <td><b>Project</b></td>
+          <td><b>Short Description</b></td>
+          <td><b>Contribution</b></td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://github.com/projectdiscovery/nuclei-templates"><b>nuclei-templates</b></a></td>
+          <td>Templates are the core of the nuclei scanner which powers the actual scanning engine.</td>      
+          <td>Templates contributed: <a href="https://github.com/projectdiscovery/nuclei-templates/blob/bf61ae8824bb222d21a72323e100454857239b74/http/cves/2024/CVE-2024-2340.yaml#L4">CVE-2024-2340</a>, <a href="https://github.com/projectdiscovery/nuclei-templates/blob/bf61ae8824bb222d21a72323e100454857239b74/http/misconfiguration/sap/sap-public-admin.yaml#L4">sap-public-admin</a></td>     
+        </tr>
+        <tr>
+          <td><a href="https://github.com/0dayCTF/reverse-shell-generator"><b>reverse-shell-generator</b></a>&nbsp;&#40;<a href="https://revshells.com/">revshells.com</a>&#41;</td>
+          <td>Hosted Reverse Shell generator with a ton of functionality.</td> 
+          <td>Added HoaxShell and front-end style improvements.</td>    
+        </tr>  
+      </tbody>
+    </table>
+    </details>
+
+  <details>
+  <summary><b>🌀 CVEs</b></summary>
+  <br/>
+    <table>
+      <thead align="center">
+        <tr border: none;>
+          <td><b>CVE</b></td>
+          <td><b>Short Description</b></td>
+          <td><b>References</b></td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>CVE-2023-22960</b></a></td>
+          <td>Lexmark devices have a feature that protects against local account credential brute-force guessing attacks by temporarily locking out an account for an amount of time after a number of unsuccessful login attempts. This vulnerability bypasses the brute-force protection, allowing unrestricted attempts to guess a local account's credentials. Works for PIN-based authentication as well</td>      
+          <td><a href="https://publications.lexmark.com/publications/security-alerts/CVE-2023-22960.pdf">CVE-2023-22960 Publication</a></td>     
+        </tr>
+      </tbody>
+    </table>
+    </details>
     
   <details>
   <summary><b>⚡ Other Tools, Guides, etc</b></summary>
@@ -159,29 +206,5 @@ If you like the tools I make please show some love by following me, [buymeacoffe
     </table>
     </details>
 
-  <details>
-  <summary><b>:octocat: Contributions</b></summary>
-  <br/>
-    <table>
-      <thead align="center">
-        <tr border: none;>
-          <td><b>Project</b></td>
-          <td><b>Short Description</b></td>
-          <td><b>Contribution</b></td>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="https://github.com/projectdiscovery/nuclei-templates"><b>nuclei-templates</b></a></td>
-          <td>Templates are the core of the nuclei scanner which powers the actual scanning engine.</td>      
-          <td>Templates contributed: <a href="https://github.com/projectdiscovery/nuclei-templates/blob/bf61ae8824bb222d21a72323e100454857239b74/http/cves/2024/CVE-2024-2340.yaml#L4">CVE-2024-2340</a>, <a href="https://github.com/projectdiscovery/nuclei-templates/blob/bf61ae8824bb222d21a72323e100454857239b74/http/misconfiguration/sap/sap-public-admin.yaml#L4">sap-public-admin</a></td>     
-        </tr>
-        <tr>
-          <td><a href="https://github.com/0dayCTF/reverse-shell-generator"><b>reverse-shell-generator</b></a>&nbsp;&#40;<a href="https://revshells.com/">revshells.com</a>&#41;</td>
-          <td>Hosted Reverse Shell generator with a ton of functionality.</td> 
-          <td>Added HoaxShell and front-end style improvements.</td>    
-        </tr>  
-      </tbody>
-    </table>
-    </details>
+
 
