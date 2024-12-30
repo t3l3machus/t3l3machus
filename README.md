@@ -152,7 +152,7 @@ If you like the tools I make please show some love by following me, [buymeacoffe
       <tbody>
         <tr>
           <td><b>CVE-2023-22960</b></a></td>
-          <td>Lexmark devices have a feature that protects against local account credential brute-force guessing attacks by temporarily locking out an account for an amount of time after a number of unsuccessful login attempts. This vulnerability bypasses the brute-force protection, allowing unrestricted attempts to guess a local account's credentials. Works for PIN-based authentication as well</td>      
+          <td>Lexmark devices have a feature that protects against local account credential brute-force guessing attacks by temporarily locking out an account for an amount of time after a number of unsuccessful login attempts. This vulnerability bypasses the brute-force protection, allowing unrestricted attempts to guess a local account's credentials. Works for PIN-based authentication as well.</td>      
           <td><a href="https://publications.lexmark.com/publications/security-alerts/CVE-2023-22960.pdf">CVE-2023-22960 Publication</a></td>     
         </tr>
       </tbody>
