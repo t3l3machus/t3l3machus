@@ -73,6 +73,12 @@ If you like the tools I make please show some love by following me, [buymeacoffe
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/PowerShell-Obfuscation-Bible?style=flat-square&labelColor=343b41"/></td>
         </tr>
         <tr>
+          <td><a href="https://github.com/t3l3machus/ACEshark"><b>ACEshark</b></a></td>
+          <td>ACEshark is a utility designed for rapid extraction and analysis of Windows service configurations and Access Control Entries, eliminating the need for tools like accesschk.exe or other non-native binaries.</td>      
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/ACEshark?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/ACEshark?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/t3l3machus/eviltree"><b>eviltree</b></a></td>
           <td>A python3 remake of the classic "tree" command with the additional feature of searching for user provided keywords/regex in files, highlighting those that contain matches.</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/eviltree?style=flat-square&labelColor=343b41"/></td>
