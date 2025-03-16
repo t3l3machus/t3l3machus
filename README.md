@@ -133,7 +133,7 @@ If you like the tools I make please show some love by following me, [buymeacoffe
         <tr>
           <td><a href="https://github.com/projectdiscovery/nuclei-templates"><b>nuclei-templates</b></a></td>
           <td>Templates are the core of the nuclei scanner which powers the actual scanning engine.</td>      
-          <td>Templates contributed: <a href="https://github.com/projectdiscovery/nuclei-templates/blob/bf61ae8824bb222d21a72323e100454857239b74/http/cves/2024/CVE-2024-2340.yaml#L4">CVE-2024-2340</a>, <a href="https://github.com/projectdiscovery/nuclei-templates/blob/bf61ae8824bb222d21a72323e100454857239b74/http/misconfiguration/sap/sap-public-admin.yaml#L4">sap-public-admin</a></td>     
+          <td>Templates contributed: <a href="https://github.com/projectdiscovery/nuclei-templates/blob/bf61ae8824bb222d21a72323e100454857239b74/http/cves/2024/CVE-2024-2340.yaml#L4">CVE-2024-2340</a>, <a href="https://github.com/projectdiscovery/nuclei-templates/blob/bf61ae8824bb222d21a72323e100454857239b74/http/misconfiguration/sap/sap-public-admin.yaml#L4">sap-public-admin</a>, <a href="https://github.com/projectdiscovery/nuclei-templates/blob/main/http/default-logins/chirpstack/chirpstack-default-login.yaml">chirpstack-default-login</a></td>     
         </tr>
         <tr>
           <td><a href="https://github.com/0dayCTF/reverse-shell-generator"><b>reverse-shell-generator</b></a>&nbsp;&#40;<a href="https://revshells.com/">revshells.com</a>&#41;</td>
