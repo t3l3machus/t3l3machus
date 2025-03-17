@@ -140,6 +140,11 @@ If you like the tools I make please show some love by following me, [buymeacoffe
           <td>Hosted Reverse Shell generator with a ton of functionality.</td> 
           <td>Added HoaxShell and front-end style improvements.</td>    
         </tr>  
+        <tr>
+          <td><a href="https://github.com/tjnull/pentest-arsenal/tree/main/Cadiclus"><b>Cadiclus</b></a></td>
+          <td>Privilege Escalation Tool for Linux Systems that use PowerShell.</td> 
+          <td>Added the <code>Invoke-CredentialHunting</code>code> module.</td>    
+        </tr> 
       </tbody>
     </table>
     </details>
