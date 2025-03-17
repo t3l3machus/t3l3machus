@@ -143,7 +143,7 @@ If you like the tools I make please show some love by following me, [buymeacoffe
         <tr>
           <td><a href="https://github.com/tjnull/pentest-arsenal/tree/main/Cadiclus"><b>Cadiclus</b></a></td>
           <td>Privilege Escalation Tool for Linux Systems that use PowerShell.</td> 
-          <td>Added the <code>Invoke-CredentialHunting</code>code> module.</td>    
+          <td>Added the <code>Invoke-CredentialHunting</code> module.</td>    
         </tr> 
       </tbody>
     </table>
