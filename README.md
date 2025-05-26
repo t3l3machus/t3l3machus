@@ -1,7 +1,6 @@
 ### Connect with me / Support:
 Hi, I'm t3l3machus, Penetration Tester & Cybersec Researcher from Athens, Greece 🇬🇷, currently living in Poland 🇵🇱.  
-If you like the tools I make please show some love by following me, [buymeacoffee](https://www.buymeacoffee.com/t3l3machus), throwing a star here and there or just give respect on [HackTheBox](https://app.hackthebox.com/profile/87301).  
-
+Check out my channel on YouTube! -> [HaxorTechTones](https://www.youtube.com/@HaxorTechTones)
 <!--
   <a href="https://www.linkedin.com/in/panagiotis-chartas-a9b4a21a5/">
       <img alt="LinkedIn" width="40px" src="https://cdn1.iconfinder.com/data/icons/social-media-icon-1/112/linkedin-512.png"/>
