@@ -108,6 +108,12 @@ Check out my channel on YouTube! -> [HaxorTechTones](https://www.youtube.com/@Ha
           <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/Synergy-httpx?style=flat-square&labelColor=343b41"/></td>
         </tr> 
         <tr>
+          <td><a href="https://github.com/t3l3machus/undust.py"><b>Undust.py</b></a></td>
+          <td>undust is a URL pattern generator that helps uncover archived, backup, and temporary files left behind on web servers. Given a URL, it generates the most common archive, temp and backup file name variants.</td>      
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/undust.py?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/undust.py?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/t3l3machus/BabelStrike"><b>BabelStrike</b></a></td>
           <td>Performs Romanization and name-to-usernames convertion of full name lists.</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/BabelStrike?style=flat-square&labelColor=343b41"/></td>
